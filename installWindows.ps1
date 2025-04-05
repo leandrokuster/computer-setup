@@ -27,7 +27,8 @@ $apps = @(
     "OpenAI.ChatGPT",
     "GitHub.GitHubDesktop",
     "GeekCorner.threema",
-    "OpenWhisperSystems.Signal"
+    "OpenWhisperSystems.Signal",
+    "Mozilla.Thunderbird"
 )
 
 # --- Install Apps via Winget ---

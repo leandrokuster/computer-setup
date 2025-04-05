@@ -29,7 +29,10 @@ $apps = @(
     "GeekCorner.threema",
     "OpenWhisperSystems.Signal",
     "Mozilla.Thunderbird",
-    "Google.GoogleDrive"
+    "Google.GoogleDrive",
+    "ArcadeRenegade.SidebarDiagnostics",
+    "SumatraPDF.SumatraPDF",
+    "Greenshot.Greenshot"
 )
 
 # --- Install Apps via Winget ---

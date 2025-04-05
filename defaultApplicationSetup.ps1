@@ -33,7 +33,8 @@ $apps = @(
     "Google.GoogleDrive",
     "ArcadeRenegade.SidebarDiagnostics",
     "SumatraPDF.SumatraPDF",
-    "Greenshot.Greenshot"
+    "Greenshot.Greenshot",
+    "SteelSeries.GG"
 )
 
 # --- Install Apps via Winget ---

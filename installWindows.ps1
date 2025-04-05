@@ -28,7 +28,8 @@ $apps = @(
     "GitHub.GitHubDesktop",
     "GeekCorner.threema",
     "OpenWhisperSystems.Signal",
-    "Mozilla.Thunderbird"
+    "Mozilla.Thunderbird",
+    "Google.GoogleDrive"
 )
 
 # --- Install Apps via Winget ---
